@@ -169,10 +169,8 @@ For the latest team roster updates, changes, or withdrawals:
 
 ## Related Documentation
 
-- [Tournament Format](FORMAT.md) - VRS seeding policy details
-- [Registration](REGISTRATION.md) - How to register your team
-- [Rules](RULES.md) - Complete rulebook including roster rules
-- [Schedule](SCHEDULE.md) - Tournament dates and match schedule
+- [Tournament Rules and Regulations](crossfire_rules_and_regulations.md) - Complete tournament rules including VRS seeding, roster rules, and match format
+- [Main Page](README.md) - Tournament overview and quick links
 
 ---
 
