@@ -1,8 +1,9 @@
 # 🎮 CROSSFIRE SEASON 4 | CS2 Tournament
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat&logo=discord)](https://discord.gg/crossfire)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=flat&logo=twitter)](https://twitter.com/crossfiregg)
-[![Twitch](https://img.shields.io/badge/Twitch-Watch%20Live-9146FF?style=flat&logo=twitch)](https://twitch.tv/crossfiregg)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=flat&logo=twitter)](https://x.com/PlayCrossFireGG)
+[![Twitch](https://img.shields.io/badge/Twitch-Watch%20Live-9146FF?style=flat&logo=twitch)](https://www.twitch.tv/PlayCrossFire)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@CrossfireGG)
 
 > **North American CS2 Tournament** | March 2 - April 25, 2026
 
@@ -31,7 +32,7 @@
 ## 🚀 Quick Start
 
 ### Registration
-📝 **[Register Your Team Here](https://forms.gle/aKDaHYHKQjsKzeNP6)**
+📝 **[Register Your Team Here](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)**
 
 ⚠️ **Payment Deadline:** February 23rd, 2026 @ 8:00 PM EST
 
@@ -51,6 +52,9 @@
 | [⚔️ **Format**](FORMAT.md) | Tournament format, structure, and VRS seeding details |
 | [📖 **Rules**](RULES.md) | Complete rulebook (12 sections) |
 | [📝 **Registration**](REGISTRATION.md) | Registration information and payment details |
+| [❓ **FAQ**](FAQ.md) | Frequently asked questions |
+| [📺 **Streaming**](STREAMING.md) | Streaming guidelines and requirements |
+| [👥 **Teams**](TEAMS.md) | Season 4 participating teams and rankings |
 
 ---
 
@@ -74,10 +78,11 @@
 ## 🔗 Official Links
 
 - **Discord:** [Join our Discord](https://discord.gg/crossfire)
-- **Twitter (X):** [@CrossfireGG](https://twitter.com/crossfiregg)
-- **Twitch:** [CrossfireGG](https://twitch.tv/crossfiregg)
-- **FACEIT:** [Organizer Page](https://faceit.com/crossfiregg)
-- **Registration Sheet:** [View Registrations](https://forms.gle/aKDaHYHKQjsKzeNP6)
+- **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
+- **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
+- **YouTube:** [@CrossfireGG](https://www.youtube.com/@CrossfireGG)
+- **FACEIT:** [CrossfireGG Hub](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
+- **Registration:** [Register Your Team](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)
 
 ---
 

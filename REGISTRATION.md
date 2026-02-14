@@ -3,10 +3,10 @@
 ## 🚀 How to Register
 
 ### Registration Form
-**📋 [Register Your Team Here](https://forms.gle/aKDaHYHKQjsKzeNP6)**
+**📋 [Register Your Team Here](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)**
 
 ### ✅ Registration Sheet
-**📊 [View Current Registrations](https://forms.gle/aKDaHYHKQjsKzeNP6)**
+**📊 [View Current Registrations](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)**
 
 ---
 
@@ -146,11 +146,12 @@ Before registering, ensure your team meets these requirements:
 
 ## 🔗 Official Links
 
-- **Registration Form:** [https://forms.gle/aKDaHYHKQjsKzeNP6](https://forms.gle/aKDaHYHKQjsKzeNP6)
+- **Registration Form:** [https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)
 - **Discord:** [Join Crossfire GG Discord](https://discord.gg/crossfire)
-- **Twitter (X):** [@CrossfireGG](https://twitter.com/crossfiregg)
-- **Twitch:** [CrossfireGG](https://twitch.tv/crossfiregg)
-- **FACEIT:** [Crossfire Organizer Page](https://faceit.com/crossfiregg)
+- **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
+- **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
+- **YouTube:** [@CrossfireGG](https://www.youtube.com/@CrossfireGG)
+- **FACEIT:** [CrossfireGG Hub](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
 
 ---
 
@@ -223,7 +224,7 @@ Failure to run FACEIT AC results in **match forfeit**.
 ---
 
 **Ready to compete?**  
-**[🎮 Register Your Team Now](https://forms.gle/aKDaHYHKQjsKzeNP6)**
+**[🎮 Register Your Team Now](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)**
 
 ---
 

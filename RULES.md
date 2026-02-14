@@ -1,7 +1,7 @@
 # 📖 CROSSFIRE GG Rulebook — Season 4 (CS2 Edition)
 
 **Region:** North America  
-**Official Links:** [Discord](https://discord.gg/crossfire) | [Twitter (X)](https://twitter.com/crossfiregg) | [Twitch](https://twitch.tv/crossfiregg) | [FACEIT Organizer](https://faceit.com/crossfiregg)
+**Official Links:** [Discord](https://discord.gg/crossfire) | [Twitter (X)](https://x.com/PlayCrossFireGG) | [Twitch](https://www.twitch.tv/PlayCrossFire) | [YouTube](https://www.youtube.com/@CrossfireGG) | [FACEIT Hub](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
 
 © Crossfire Network LLC 2025 All Rights Reserved
 
