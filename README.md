@@ -1,117 +1,37 @@
-# 🎮 CROSSFIRE SEASON 4 | CS2 Tournament
+# Crossfire GG
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat&logo=discord)](https://discord.gg/crossfire)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=flat&logo=twitter)](https://x.com/PlayCrossFireGG)
-[![Twitch](https://img.shields.io/badge/Twitch-Watch%20Live-9146FF?style=flat&logo=twitch)](https://www.twitch.tv/PlayCrossFire)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@CrossfireGG)
-
-> **North American CS2 Tournament** | March 2 - April 25, 2026
+**North American CS2 Tournament** | March 2 - April 25, 2026
 
 ---
 
-## 📋 Tournament Overview
+## Quick Links
 
-| Detail | Information |
-|--------|-------------|
-| **📅 Season Dates** | March 2 – April 25, 2026 |
-| **🎮 Game** | Counter-Strike 2 (CS2) |
-| **🌎 Region** | North America |
-| **🖥️ Location** | Online |
-| **🎟️ Team Limit** | 32 Teams |
-| **💵 Entry Fee** | $100 per team |
-| **🏆 Prize Pool** | $3,500 USD |
-
-### 💰 Prize Distribution
-
-- 🥇 **1st Place:** $2,000 USD
-- 🥈 **2nd Place:** $1,250 USD
-- 🥉 **3rd Place:** $250 USD
-
----
-
-## 🚀 Quick Start
-
-### Registration
-📝 **[Register Your Team Here](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)**
-
-⚠️ **Payment Deadline:** February 23rd, 2026 @ 8:00 PM EST
-
-### Requirements
-- ✅ FACEIT Anti-Cheat Required
-- ✅ All players must reside in North America
-- ✅ Maximum roster: 8 players (5 starters, 2 substitutes, 1 coach)
-- ✅ Minimum 3 core players per match
-
----
-
-## 📚 Documentation
-
-| Document | Description |
-|----------|-------------|
-| [📅 **Schedule**](SCHEDULE.md) | Complete tournament schedule with all match dates |
-| [⚔️ **Format**](FORMAT.md) | Tournament format, structure, and VRS seeding details |
-| [📖 **Rules**](RULES.md) | Complete rulebook (12 sections) |
-| [📝 **Registration**](REGISTRATION.md) | Registration information and payment details |
-| [❓ **FAQ**](FAQ.md) | Frequently asked questions |
-| [📺 **Streaming**](STREAMING.md) | Streaming guidelines and requirements |
-| [👥 **Teams**](TEAMS.md) | Season 4 participating teams and rankings |
-
----
-
-## 🎯 Quick Facts
-
-### Tournament Type
-- **Tier 2 Ranked** (VRS-Enabled)
-- **Open Event** - Any eligible NA team may register
-
-### VRS & Seeding
-- Uses **February 2nd, 2026** VRS Leaderboard for seeding
-- VRS-ranked teams seeded first by ranking
-- Remaining teams seeded by ESEA League Division and W/L record
-
-### Anti-Cheat
-- **FACEIT Anti-Cheat** mandatory for all matches
-- Active VAC or platform bans = ineligible
-
----
-
-## 🔗 Official Links
-
-- **Discord:** [Join our Discord](https://discord.gg/crossfire)
+- **Registration:** [Register Your Team](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)
+- **Discord:** [discord.gg/crossfire](https://discord.gg/crossfire)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
 - **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
 - **YouTube:** [@CrossfireGG](https://www.youtube.com/@CrossfireGG)
-- **FACEIT:** [CrossfireGG Hub](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
-- **Registration:** [Register Your Team](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)
+- **FACEIT Hub:** [CrossfireGG](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
 
 ---
 
-## ⚙️ Tournament Format Summary
+## Tournament Information
 
-### Group Stage (March 2 - March 22)
-- 8 Groups × 4 Teams (32 Total)
-- Round-Robin Format
-- Best-of-3 (BO3) Matches
-- Top 2 from each group advance (16 total)
-- Default: Fridays @ 8:00 PM EST
-
-### Playoff Stage (March 30 - April 25)
-- 16-Team Single Elimination Bracket
-- Best-of-3 (BO3) Matches
-- Default: Fridays @ 8:00 PM EST
+- **Season 4 Dates:** March 2 – April 25, 2026
+- **Game:** Counter-Strike 2 (CS2)
+- **Region:** North America (Online)
+- **Teams:** 32 Teams
+- **Entry Fee:** $100 per team
+- **Payment Deadline:** February 23rd, 2026 @ 8:00 PM EST
+- **Prize Pool:** $3,500 USD (1st: $2,000 | 2nd: $1,250 | 3rd: $250)
 
 ---
 
-## 📞 Support & Contact
+## Documentation
 
-**Need Help?** Contact admins through the Support Channel in the Crossfire GG Discord
-
-**Questions?** Check our [Rules](RULES.md) or reach out to the administrative team
+- [Tournament Rules and Regulations](crossfire_rules_and_regulations.md)
+- [Teams and Rankings](TEAMS.md)
 
 ---
-
-## ⚖️ Legal
 
 © Crossfire Network LLC 2025 All Rights Reserved
-
-For full terms and conditions, see [RULES.md](RULES.md)
