@@ -1,26 +1,19 @@
-# Tournament Documentation
+# CrossfireGG
 
-## Tournament Overview
-This tournament aims to bring together the best teams to compete in a thrilling gaming experience. Participants will go through rigorous matches to claim the title of champions.
+## Season 4 Overview
+Welcome to Season 4 of CrossfireGG! In this season, we continue to build on the foundation of our robust platform designed for gamers. Expect exciting new features, enhanced gameplay mechanics, and community-driven content updates. Join us as we strive to enhance your gaming experience with innovative tools and resources tailored just for you.
 
-## Team Information
-- **Team A:** [Team Name A]
-- **Team B:** [Team Name B]
-- **Team C:** [Team Name C]
-- **Team D:** [Team Name D]
+## Quick Links
+- [Installation Guide](docs/installation.md)
+- [User Guide](docs/user_guide.md)
+- [API Documentation](docs/api_reference.md)
+- [Contributing Guidelines](docs/contributing.md)
+- [Change Log](CHANGELOG.md)
+- [Contact Us](docs/contact.md)
 
-## Bracket Structure
-The tournament will follow a single-elimination bracket structure:
-1. Round 1: Match between Team A and Team B
-2. Round 2: Match between the winners of Round 1
-
-## Rules
-1. Each match will be best of three.
-2. Teams must be available 10 minutes before their scheduled match.
-3. Any form of cheating will result in disqualification.
-
-## Results
-- **Round 1:** Team A vs Team B - Winner: [Winner Name]
-
-
-*Documentation Last Updated: 2026-02-14 16:23:57 UTC*
+## Navigation to Detailed Pages
+Our repository contains a wealth of detailed information about each aspect of CrossfireGG. Use the links below to explore:
+- [Features Overview](docs/features.md)
+- [Release Notes](docs/release_notes.md)
+- [Troubleshooting Guide](docs/troubleshooting.md)
+- [Community Resources](docs/community.md)
