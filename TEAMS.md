@@ -9,7 +9,7 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 | 1 | 43 | 736 | **Regain** | VRS Seeded |
 | 2 | 51 | 682 | **Zomblers** | VRS Seeded |
 | 3 | 59 | 635 | **Aether** | VRS Seeded |
-| 4 | 64 | 599 | **Outfit 49** | VRS Seeded |
+| 4 | 64 | 599 | **Phoenix** | VRS Seeded |
 | 5 | 74 | 559 | **F5 Esports** | VRS Seeded |
 | 6 | 76 | 547 | **Reign Above** | VRS Seeded |
 | 7 | 81 | 517 | **Wanted Goons** | VRS Seeded |
@@ -23,32 +23,30 @@ The following teams are seeded based on ESEA League Division and W/L record:
 
 | Seed | Team Name |
 |------|-----------|
-| 9 | Guangdong Tigers |
-| 10 | Reborn |
-| 11 | FRZ Unit |
-| 12 | Beyond Limits |
-| 13 | Over Your Head |
-| 14 | team mouse |
-| 15 | AURA |
-| 16 | Team Aether |
-| 17 | Holly Molly |
-| 18 | Omen Esports |
-| 19 | Phantom Sense |
-| 20 | Team WebOS |
-| 21 | Redacted Society |
-| 22 | Zealous |
-| 23 | NineFly Esports |
-| 24 | NXG |
-| 25 | Lurker Gaming |
-| 26 | Locally Hated |
-| 27 | Detonate |
-| 28 | Storm Surge |
-| 29 | Exnitas |
-| 30 | Chicken Coop |
-| 31 | Parallax |
-| 32 | Empire |
-
-**Note:** MERC is listed but not included in seeding at this time.
+| 9 | Omen Esports |
+| 10 | Chicken Coop |
+| 11 | Empire |
+| 12 | Lurker Gaming |
+| 13 | RedactedSociety |
+| 14 | Phantom Sense |
+| 15 | GuangdongTigers |
+| 16 | Beyond Limits |
+| 17 | MERC |
+| 18 | Holly Molly |
+| 19 | FC Detonate |
+| 20 | Zealous |
+| 21 | Aura |
+| 22 | FRZ Unit |
+| 23 | Over Your Head |
+| 24 | NXG Esports |
+| 25 | NineFly Esports |
+| 26 | Storm Surge |
+| 27 | Exnitas |
+| 28 | Reborn |
+| 29 | Locally Hated |
+| 30 | PARALLAX |
+| 31 | team mouse |
+| 32 | Team webOS |
 
 ---
 
@@ -123,7 +121,7 @@ This ensures balanced groups with mixed skill levels.
 - **VRS Standing:** 59th
 - **Seed:** 3rd in Crossfire Season 4
 
-### Outfit 49 (VRS Rank #64)
+### Phoenix (VRS Rank #64)
 - **Points:** 599
 - **VRS Standing:** 64th
 - **Seed:** 4th in Crossfire Season 4
