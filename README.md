@@ -21,13 +21,13 @@
 
 ## Tournament Classification
 
-CrossfireGG is an online Tier-2 structured competition designed in alignment with VRS integrity guidelines. This is **not a casual or community cup** — it is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards.
+CrossfireGG operates as an open-registration Tier-2 structured competition. Valve Regional Standings (VRS) are referenced strictly for seeding integrity and competitive structure. This event does NOT utilize Direct VRS Invites. This is **not a casual or community cup** — it is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards.
 
 ### Key Information
 
 - **Season 4 Dates:** March 2 – April 25, 2026
 - **Game:** Counter-Strike 2 (CS2)
-- **Tournament Type:** Online Tier-2 (VRS-Enabled)
+- **Tournament Type:** Online Tier-2, structured in alignment with Valve Regional Standings (VRS) integrity guidelines
 - **Region:** Americas (North America)
 - **Teams:** 32 Teams
 - **Entry Fee:** $100 per team
@@ -40,7 +40,7 @@ CrossfireGG is an online Tier-2 structured competition designed in alignment wit
 
 CrossfireGG does not enforce a full roster lock during the regular season or group stage. Teams may adjust players prior to playoffs, subject to tournament administration approval.
 
-Within CrossfireGG, the term "Roster" refers primarily to the Core-3 competitive identity.
+All teams must maintain a consistent Team Core (3 players) for competitive integrity.
 
 ### VRS Teams
 
@@ -112,21 +112,21 @@ This ensures each group contains a mix of skill levels and prevents stacking.
 
 ---
 
-## Invite & Eligibility Policy
+## Registration & Eligibility Policy
+
+### Open Registration
+
+- **All teams enter via open registration** — Any eligible North American team may register until all 32 slots are filled
+- **No Direct VRS Invites** — VRS standings are used only as a transparent reference for competitive seeding within an open registration format
+- All current VRS-ranked teams are confirmed eligible to register
 
 ### VRS Seeding Priority
 
-Teams are invited and seeded based on their standing in the **February 2, 2026 VRS Leaderboard**:
+Teams are seeded based on their standing in the **February 2, 2026 VRS Leaderboard**:
 
-1. **VRS-ranked teams** receive automatic seeding priority based on VRS points
+1. **VRS-ranked teams** receive seeding priority based on VRS points (seeding priority does NOT mean invitation status)
 2. **Non-VRS teams** are seeded by ESEA League Division and Win/Loss record
 3. Teams appearing on both the Season 4 roster AND the VRS leaderboard are VRS-seeded
-
-### How Invited Teams Are Determined
-
-- **Open Registration:** Any eligible North American team may register until all 32 slots are filled
-- **VRS Teams:** All current VRS-ranked teams are confirmed eligible
-- **Priority:** VRS-ranked teams receive priority seeding positions (Seeds 1-9)
 - **Final Seeding:** Publicly announced before Round 1 begins
 
 ### Region Eligibility

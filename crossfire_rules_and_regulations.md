@@ -162,7 +162,7 @@
 
 ### 2.1 Tournament Overview
 
-* 2.1.1 **Tournament Type:** Tier 2 Ranked (VRS-Enabled)
+* 2.1.1 **Tournament Type:** Tier 2, structured in alignment with Valve Regional Standings (VRS) competitive integrity guidelines
 
 * 2.1.2 **Total Teams:** 32
 
@@ -175,7 +175,7 @@
 
 * 2.1.5 **Server Region:** North America (United States)
 
-* 2.1.6 Crossfire GG reserves the right to modify, change, or adapt rules at any time to maintain a fair and competitive environment.
+* 2.1.6 Any rule updates will be publicly documented with version history and will apply equally to all participants.
 
 ### 2.2 Group Stage
 

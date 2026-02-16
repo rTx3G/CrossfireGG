@@ -65,7 +65,7 @@ The following teams were seeded on **February 15th, 2026**:
 
 ### Tournament Lock Notice
 
-**As of February 16th, 2026**, the tournament is **two weeks out** from the start date. In accordance with **VRS regulations**, no further seeding or team changes will be made to ensure **fair play** for all participants.
+**As of February 16th, 2026**, the tournament is **two weeks out** from the start date. To ensure **fair play and competitive integrity** for all participants, seeding finalization has been completed and no further seeding or team changes will be made.
 
 ---
 
