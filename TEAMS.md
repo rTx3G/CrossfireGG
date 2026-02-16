@@ -7,9 +7,9 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 | Seed | VRS Rank | Points | Team Name | Status |
 |------|----------|--------|-----------|--------|
 | 1 | 43 | 736 | **Regain** | VRS Seeded |
-| 2 | - | - | **Phoenix (Outfit 49)** | VRS Seeded |
+| 2 | 50 | - | **Outfit 49 (Phoenix)** | VRS Seeded |
 | 3 | 51 | 682 | **Zomblers** | VRS Seeded |
-| 4 | - | - | **Aether (Outfit 49)** | VRS Seeded |
+| 4 | 64 | - | **Aether (Outfit 49)** | VRS Seeded |
 | 5 | 72 | 560 | **Chicken Coop (Take Flyte)** | VRS Seeded |
 | 6 | 74 | 559 | **F5 Esports** | VRS Seeded |
 | 7 | 76 | 547 | **Reign Above** | VRS Seeded |
@@ -78,68 +78,68 @@ The following teams were seeded on **February 15th, 2026**:
 **Groups Announced:**
 
 #### **Group A**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Regain | VRS 736 pts / ADV | 7-2 | 1 |
-| Beyond Limits | ADV | 4-5 | 16 |
-| MERC | ADV | 4-6 | 17 |
-| Team webOS | OPEN | Fresh Team | 32 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Regain | VRS 736 pts / ADV | 1 |
+| Beyond Limits | ADV | 16 |
+| MERC | ADV | 17 |
+| Team webOS | OPEN | 32 |
 
 #### **Group B**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Phoenix (Outfit 49) | VRS / ADV | 6-2 | 2 |
-| RedactedSociety | ADV | 5-5 | 15 |
-| Holly Molly | ADV | 3-6 | 18 |
-| team mouse | OPEN | 7-3 | 31 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Outfit 49 (Phoenix) | VRS / ADV | 2 |
+| RedactedSociety | ADV | 15 |
+| Holly Molly | ADV | 18 |
+| team mouse | OPEN | 31 |
 
 #### **Group C**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Zomblers | VRS 682 pts / ADV | 9-1 | 3 |
-| Phantom Sense | ADV | 5-5 | 14 |
-| FC Detonate | MAIN | 8-2 | 19 |
-| PARALLAX | OPEN | 8-2 | 30 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Zomblers | VRS 682 pts / ADV | 3 |
+| Phantom Sense | ADV | 14 |
+| FC Detonate | MAIN | 19 |
+| PARALLAX | OPEN | 30 |
 
 #### **Group D**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Aether (Outfit 49) | VRS / ADV | 0-5 | 4 |
-| GuangdongTigers | ADV | 5-5 | 13 |
-| Aura | MAIN | 7-3 | 20 |
-| Locally Hated | OPEN | 8-2 | 29 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Aether (Outfit 49) | VRS / ADV | 4 |
+| GuangdongTigers | ADV | 13 |
+| Aura | MAIN | 20 |
+| Locally Hated | OPEN | 29 |
 
 #### **Group E**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 7-3 | 5 |
-| Lurker Gaming | ADV | 6-4 | 12 |
-| FRZ Unit | MAIN | 7-3 | 21 |
-| Reborn | OPEN | 10-0 | 28 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 5 |
+| Lurker Gaming | ADV | 12 |
+| FRZ Unit | MAIN | 21 |
+| Reborn | OPEN | 28 |
 
 #### **Group F**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| F5 Esports | VRS 559 pts / ADV | 7-2 | 6 |
-| Omen Esports | ADV | 7-4 | 11 |
-| Zealous | MAIN | 7-3 | 22 |
-| Exnitas | IM | 7-3 | 27 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| F5 Esports | VRS 559 pts / ADV | 6 |
+| Omen Esports | ADV | 11 |
+| Zealous | MAIN | 22 |
+| Exnitas | IM | 27 |
 
 #### **Group G**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Reign Above | VRS 547 pts / ADV | 4-6 | 7 |
-| Empire | ADV | 7-3 | 10 |
-| NXG Esports | MAIN | 6-4 | 23 |
-| Storm Surge | MAIN | 4-6 | 26 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Reign Above | VRS 547 pts / ADV | 7 |
+| Empire | ADV | 10 |
+| NXG Esports | MAIN | 23 |
+| Storm Surge | MAIN | 26 |
 
 #### **Group H**
-| Team | League/Points | Record | Seed |
-|------|---------------|--------|------|
-| Wanted Goons | VRS 517 pts / ADV | 6-4 | 8 |
-| NYX | VRS 489 pts / ADV | 2-8 | 9 |
-| Over Your Head | MAIN | 6-4 | 24 |
-| NineFly Esports | MAIN | 5-5 | 25 |
+| Team | League/Points | Seed |
+|------|---------------|------|
+| Wanted Goons | VRS 517 pts / ADV | 8 |
+| NYX | VRS 489 pts / ADV | 9 |
+| Over Your Head | MAIN | 24 |
+| NineFly Esports | MAIN | 25 |
 
 **Seeding Method:**
 - Seeds 1-8 placed in separate groups (one per group)
@@ -177,7 +177,8 @@ This ensures balanced groups with mixed skill levels.
 - **VRS Standing:** 43rd
 - **Seed:** 1st in Crossfire Season 4
 
-### Phoenix (Outfit 49) (VRS)
+### Outfit 49 (Phoenix) (VRS Rank #50)
+- **VRS Standing:** 50th
 - **Seed:** 2nd in Crossfire Season 4
 
 ### Zomblers (VRS Rank #51)
@@ -185,7 +186,8 @@ This ensures balanced groups with mixed skill levels.
 - **VRS Standing:** 51st
 - **Seed:** 3rd in Crossfire Season 4
 
-### Aether (Outfit 49) (VRS)
+### Aether (Outfit 49) (VRS Rank #64)
+- **VRS Standing:** 64th
 - **Seed:** 4th in Crossfire Season 4
 
 ### Chicken Coop (Take Flyte) (VRS Rank #72)
