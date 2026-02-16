@@ -7,9 +7,9 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 | Seed | VRS Rank | Points | Team Name | Status |
 |------|----------|--------|-----------|--------|
 | 1 | 43 | 736 | **Regain** | VRS Seeded |
-| 2 | 50 | - | **Outfit 49 (Phoenix)** | VRS Seeded |
+| 2 | 50 | 691 | **Outfit 49 (Phoenix)** | VRS Seeded |
 | 3 | 51 | 682 | **Zomblers** | VRS Seeded |
-| 4 | 64 | - | **Aether (Outfit 49)** | VRS Seeded |
+| 4 | 64 | 599 | **Aether (Outfit 49)** | VRS Seeded |
 | 5 | 72 | 560 | **Chicken Coop (Take Flyte)** | VRS Seeded |
 | 6 | 74 | 559 | **F5 Esports** | VRS Seeded |
 | 7 | 76 | 547 | **Reign Above** | VRS Seeded |
@@ -88,7 +88,7 @@ The following teams were seeded on **February 15th, 2026**:
 #### **Group B**
 | Team | League/Points | Seed |
 |------|---------------|------|
-| Outfit 49 (Phoenix) | VRS / ADV | 2 |
+| Outfit 49 (Phoenix) | VRS 691 pts / ADV | 2 |
 | RedactedSociety | ADV | 15 |
 | Holly Molly | ADV | 18 |
 | team mouse | OPEN | 31 |
@@ -104,7 +104,7 @@ The following teams were seeded on **February 15th, 2026**:
 #### **Group D**
 | Team | League/Points | Seed |
 |------|---------------|------|
-| Aether (Outfit 49) | VRS / ADV | 4 |
+| Aether (Outfit 49) | VRS 599 pts / ADV | 4 |
 | GuangdongTigers | ADV | 13 |
 | Aura | MAIN | 20 |
 | Locally Hated | OPEN | 29 |
@@ -178,6 +178,7 @@ This ensures balanced groups with mixed skill levels.
 - **Seed:** 1st in Crossfire Season 4
 
 ### Outfit 49 (Phoenix) (VRS Rank #50)
+- **Points:** 691
 - **VRS Standing:** 50th
 - **Seed:** 2nd in Crossfire Season 4
 
@@ -187,6 +188,7 @@ This ensures balanced groups with mixed skill levels.
 - **Seed:** 3rd in Crossfire Season 4
 
 ### Aether (Outfit 49) (VRS Rank #64)
+- **Points:** 599
 - **VRS Standing:** 64th
 - **Seed:** 4th in Crossfire Season 4
 
