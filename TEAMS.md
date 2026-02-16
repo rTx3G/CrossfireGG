@@ -7,7 +7,7 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 | Seed | VRS Rank | Points | Team Name | Status |
 |------|----------|--------|-----------|--------|
 | 1 | 43 | 736 | **Regain** | VRS Seeded |
-| 2 | - | - | **Phoenix (Outfit49)** | VRS Seeded |
+| 2 | - | - | **Phoenix (Outfit 49)** | VRS Seeded |
 | 3 | 51 | 682 | **Zomblers** | VRS Seeded |
 | 4 | - | - | **Aether (Outfit 49)** | VRS Seeded |
 | 5 | 72 | 560 | **Chicken Coop (Take Flyte)** | VRS Seeded |
@@ -88,7 +88,7 @@ The following teams were seeded on **February 15th, 2026**:
 #### **Group B**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
-| Phoenix (Outfit49) | VRS / ADV | 6-2 | 2 |
+| Phoenix (Outfit 49) | VRS / ADV | 6-2 | 2 |
 | RedactedSociety | ADV | 5-5 | 15 |
 | Holly Molly | ADV | 3-6 | 18 |
 | team mouse | OPEN | 7-3 | 31 |
@@ -177,7 +177,7 @@ This ensures balanced groups with mixed skill levels.
 - **VRS Standing:** 43rd
 - **Seed:** 1st in Crossfire Season 4
 
-### Phoenix (Outfit49) (VRS)
+### Phoenix (Outfit 49) (VRS)
 - **Seed:** 2nd in Crossfire Season 4
 
 ### Zomblers (VRS Rank #51)
