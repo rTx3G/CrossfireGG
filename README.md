@@ -85,7 +85,7 @@ CrossfireGG Season 4 follows **Valve Regional Standings (VRS) integrity standard
 
 Teams are seeded using a **separated seeding methodology** to ensure competitive balance:
 
-1. **Seeds 1-8** (VRS-ranked teams) are placed in separate groups — one top seed per group
+1. **Seeds 1-8** are placed in separate groups — one top seed per group
 2. **Seeds 9-16** are distributed across all groups
 3. **Seeds 17-24** are distributed across all groups
 4. **Seeds 25-32** are distributed across all groups
