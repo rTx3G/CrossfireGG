@@ -36,27 +36,22 @@ CrossfireGG is an online Tier-2 structured competition designed in alignment wit
 
 ---
 
-## Core Roster Policy
+## Roster & Core Policy
 
-Within CrossfireGG, the term "Roster" refers to the Core-3 player identity used for competitive integrity.
+CrossfireGG does not enforce a full roster lock during the regular season or group stage. Teams may adjust players prior to playoffs, subject to tournament administration approval.
 
-**All teams**, including VRS and non-VRS participants, must maintain a minimum core of three (3) players once roster lock is reached.
-
-### Roster Lock
-
-- Rosters lock fourteen (14) days before event start (February 16, 2026)
-- The core-3 represents the competitive identity of the team for seeding and eligibility purposes
+Within CrossfireGG, the term "Roster" refers primarily to the Core-3 competitive identity.
 
 ### VRS Teams
 
-- Must maintain at least three (3) players from the official VRS snapshot roster (February 2, 2026)
-- Changing one or two players before lock does NOT affect VRS eligibility
-- If a VRS team changes its core and drops below three snapshot players, the team loses VRS eligibility AND will be disqualified from the tournament to preserve competitive integrity
+- Must maintain at least three (3) players from the official VRS snapshot roster (February 2, 2026) at all times
+- Changing one or two players does not affect VRS eligibility
+- Falling below three snapshot players results in immediate disqualification to preserve VRS integrity
 
 ### Non-VRS Teams
 
-- Must also maintain a core of three (3) registered players after roster lock
-- Breaking the core requirement may result in admin disqualification
+- Must also maintain a consistent Core-3 identity for competitive integrity
+- Administrative review may occur if the core identity changes
 
 ### Duplicate Core Restrictions
 
@@ -68,9 +63,9 @@ Within CrossfireGG, the term "Roster" refers to the Core-3 player identity used 
 
 ## Seeding Integrity Policy
 
-- Seeding reflects the roster identity present at roster lock
+- Seeding reflects the core roster identity
 - Core-3 continuity ensures fair seeding stability
-- Seeding becomes final at roster lock date (February 16, 2026)
+- Seeding does not imply a full roster lock prior to playoffs
 - Teams disqualified due to core violations will not retain seeded positions
 
 ---
@@ -150,7 +145,6 @@ Teams are invited and seeded based on their standing in the **February 2, 2026 V
 | **January 31, 2026** | Tournament Announcement ([X Post](https://x.com/i/status/2017723806614183984)) |
 | **February 2, 2026** | VRS Snapshot Taken |
 | **February 15, 2026** | Non-VRS Team Seeding Completed |
-| **February 16, 2026** | Roster Lock (T-14 Days) |
 | **February 23, 2026 @ 8 PM EST** | Payment Deadline |
 | **Pre-March 2, 2026** | Group Assignments Revealed |
 | **March 2, 2026** | Group Stage Begins (Round 1) |
