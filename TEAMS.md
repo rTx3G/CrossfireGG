@@ -80,7 +80,7 @@ The following teams are seeded based on ESEA League Division and W/L record:
 |------|---------------|--------|------|
 | Regain | VRS 736 pts / ADV | 7-2 | 1 |
 | Empire | ADV | 7-3 | 9 |
-| Holly Molly | ADV | 3-6 | 17 |
+| MERC | ADV | 4-6 | 16 |
 | team mouse | OPEN | 7-3 | 31 |
 
 #### **Group B**
@@ -88,16 +88,16 @@ The following teams are seeded based on ESEA League Division and W/L record:
 |------|---------------|--------|------|
 | Zomblers | VRS 682 pts / ADV | 9-1 | 2 |
 | Lurker Gaming | ADV | 6-4 | 10 |
-| Aether | ADV | 0-5 | 18 |
-| PARALLAX | OPEN | 8-2 | 30 |
+| Holly Molly | ADV | 3-6 | 17 |
+| Team webOS | OPEN | Fresh Team | 32 |
 
 #### **Group C**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 7-3 | 3 |
 | Phoenix | ADV | 6-2 | 11 |
-| MERC | ADV | 4-6 | 16 |
-| Reborn | OPEN | 10-0 | 28 |
+| Aether | ADV | 0-5 | 18 |
+| PARALLAX | OPEN | 8-2 | 30 |
 
 #### **Group D**
 | Team | League/Points | Record | Seed |
@@ -111,8 +111,8 @@ The following teams are seeded based on ESEA League Division and W/L record:
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Reign Above | VRS 547 pts / ADV | 4-6 | 5 |
-| Omen Esports | ADV | 7-4 | 8 |
-| FC Detonate | MAIN | 8-2 | 19 |
+| Phantom Sense | ADV | 5-5 | 13 |
+| Over Your Head | MAIN | 6-4 | 23 |
 | NineFly Esports | MAIN | 5-5 | 25 |
 
 #### **Group F**
@@ -120,24 +120,24 @@ The following teams are seeded based on ESEA League Division and W/L record:
 |------|---------------|--------|------|
 | Wanted Goons | VRS 517 pts / ADV | 6-4 | 6 |
 | GuangdongTigers | ADV | 5-5 | 14 |
-| Zealous | MAIN | 7-3 | 20 |
+| NXG Esports | MAIN | 6-4 | 24 |
 | Storm Surge | MAIN | 4-6 | 26 |
 
 #### **Group G**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | NYX | VRS 489 pts / ADV | 2-8 | 7 |
+| Omen Esports | ADV | 7-4 | 8 |
 | Aura | MAIN | 7-3 | 21 |
-| NXG Esports | MAIN | 6-4 | 24 |
 | Exnitas | IM | 7-3 | 27 |
 
 #### **Group H**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
-| Phantom Sense | ADV | 5-5 | 13 |
+| FC Detonate | MAIN | 8-2 | 19 |
+| Zealous | MAIN | 7-3 | 20 |
 | FRZ Unit | MAIN | 7-3 | 22 |
-| Over Your Head | MAIN | 6-4 | 23 |
-| Team webOS | OPEN | Fresh Team | 32 |
+| Reborn | OPEN | 10-0 | 28 |
 
 **Seeding Method:**
 - Seeds 1-8 placed in separate groups (one per group)
