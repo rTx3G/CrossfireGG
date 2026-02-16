@@ -245,4 +245,4 @@ For the latest team roster updates, changes, or withdrawals:
 
 © Crossfire Network LLC 2025 All Rights Reserved
 
-*Last Updated: February 16, 2026*
+*Last Updated: February 15, 2026*
