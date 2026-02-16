@@ -12,6 +12,7 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 | 4 | 74 | 559 | **F5 Esports** | VRS Seeded |
 | 5 | 76 | 547 | **Reign Above** | VRS Seeded |
 | 6 | 81 | 517 | **Wanted Goons** | VRS Seeded |
+| 7 | 87 | 489 | **NYX** | VRS Seeded |
 
 ---
 
@@ -21,17 +22,16 @@ The following teams are seeded based on ESEA League Division and W/L record:
 
 | Seed | Team Name | League | Record |
 |------|-----------|--------|--------|
-| 7 | Omen Esports | ADV | 7-4 |
-| 8 | Empire | ADV | 7-3 |
-| 9 | Lurker Gaming | ADV | 6-4 |
-| 10 | Phoenix | ADV | 6-2 |
-| 11 | RedactedSociety | ADV | 5-5 |
-| 12 | Phantom Sense | ADV | 5-5 |
-| 13 | GuangdongTigers | ADV | 5-5 |
-| 14 | Beyond Limits | ADV | 4-5 |
-| 15 | MERC | ADV | 4-6 |
-| 16 | Holly Molly | ADV | 3-6 |
-| 17 | NYX | ADV | 2-8 |
+| 8 | Omen Esports | ADV | 7-4 |
+| 9 | Empire | ADV | 7-3 |
+| 10 | Lurker Gaming | ADV | 6-4 |
+| 11 | Phoenix | ADV | 6-2 |
+| 12 | RedactedSociety | ADV | 5-5 |
+| 13 | Phantom Sense | ADV | 5-5 |
+| 14 | GuangdongTigers | ADV | 5-5 |
+| 15 | Beyond Limits | ADV | 4-5 |
+| 16 | MERC | ADV | 4-6 |
+| 17 | Holly Molly | ADV | 3-6 |
 | 18 | Aether | ADV | 0-5 |
 | 19 | FC Detonate | MAIN | 8-2 |
 | 20 | Zealous | MAIN | 7-3 |
@@ -79,65 +79,65 @@ The following teams are seeded based on ESEA League Division and W/L record:
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Regain | VRS 736 pts / ADV | 7-2 | 1 |
-| RedactedSociety | ADV | 5-5 | 11 |
-| NXG Esports | MAIN | 6-4 | 24 |
-| PARALLAX | OPEN | 8-2 | 30 |
+| Empire | ADV | 7-3 | 9 |
+| Holly Molly | ADV | 3-6 | 17 |
+| NineFly Esports | MAIN | 5-5 | 25 |
 
 #### **Group B**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Zomblers | VRS 682 pts / ADV | 9-1 | 2 |
-| Phantom Sense | ADV | 5-5 | 12 |
-| Over Your Head | MAIN | 6-4 | 23 |
-| Reborn | OPEN | 10-0 | 28 |
+| Lurker Gaming | ADV | 6-4 | 10 |
+| Aether | ADV | 0-5 | 18 |
+| Storm Surge | MAIN | 4-6 | 26 |
 
 #### **Group C**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 7-3 | 3 |
-| GuangdongTigers | ADV | 5-5 | 13 |
-| Aura | MAIN | 7-3 | 21 |
-| team mouse | OPEN | 7-3 | 31 |
+| Phoenix | ADV | 6-2 | 11 |
+| FC Detonate | MAIN | 8-2 | 19 |
+| Reborn | OPEN | 10-0 | 28 |
 
 #### **Group D**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | F5 Esports | VRS 559 pts / ADV | 7-2 | 4 |
-| Phoenix | ADV | 6-2 | 10 |
-| FC Detonate | MAIN | 8-2 | 19 |
+| RedactedSociety | ADV | 5-5 | 12 |
+| Zealous | MAIN | 7-3 | 20 |
 | Locally Hated | OPEN | 8-2 | 29 |
 
 #### **Group E**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Reign Above | VRS 547 pts / ADV | 4-6 | 5 |
-| Empire | ADV | 7-3 | 8 |
-| Zealous | MAIN | 7-3 | 20 |
-| NineFly Esports | MAIN | 5-5 | 25 |
+| Phantom Sense | ADV | 5-5 | 13 |
+| Aura | MAIN | 7-3 | 21 |
+| PARALLAX | OPEN | 8-2 | 30 |
 
 #### **Group F**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
 | Wanted Goons | VRS 517 pts / ADV | 6-4 | 6 |
-| Lurker Gaming | ADV | 6-4 | 9 |
-| FRZ Unit | MAIN | 7-3 | 22 |
-| Storm Surge | MAIN | 4-6 | 26 |
+| GuangdongTigers | ADV | 5-5 | 14 |
+| Over Your Head | MAIN | 6-4 | 23 |
+| team mouse | OPEN | 7-3 | 31 |
 
 #### **Group G**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
-| Omen Esports | ADV | 7-4 | 7 |
-| Beyond Limits | ADV | 4-5 | 14 |
+| NYX | VRS 489 pts / ADV | 2-8 | 7 |
+| MERC | ADV | 4-6 | 16 |
+| NXG Esports | MAIN | 6-4 | 24 |
 | Exnitas | IM | 7-3 | 27 |
-| NYX | ADV | 2-8 | 17 |
 
 #### **Group H**
 | Team | League/Points | Record | Seed |
 |------|---------------|--------|------|
-| Holly Molly | ADV | 3-6 | 16 |
-| Aether | ADV | 0-5 | 18 |
+| Omen Esports | ADV | 7-4 | 8 |
+| no1nx (Empire) | ADV | 7-3 | 9 |
+| FRZ Unit | MAIN | 7-3 | 22 |
 | Team webOS | OPEN | Fresh Team | 32 |
-| MERC | ADV | 4-6 | 15 |
 
 **Seeding Method:**
 - Seeds 1-8 placed in separate groups (one per group)
@@ -199,6 +199,11 @@ This ensures balanced groups with mixed skill levels.
 - **Points:** 517
 - **VRS Standing:** 81st
 - **Seed:** 6th in Crossfire Season 4
+
+### NYX (VRS Rank #87)
+- **Points:** 489
+- **VRS Standing:** 87th
+- **Seed:** 7th in Crossfire Season 4
 
 ---
 
