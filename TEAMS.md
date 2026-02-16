@@ -8,12 +8,11 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 |------|----------|--------|-----------|--------|
 | 1 | 43 | 736 | **Regain** | VRS Seeded |
 | 2 | 51 | 682 | **Zomblers** | VRS Seeded |
-| 3 | 59 | 635 | **Aether** | VRS Seeded |
-| 4 | 64 | 599 | **Outfit 49** | VRS Seeded |
-| 5 | 74 | 559 | **F5 Esports** | VRS Seeded |
-| 6 | 76 | 547 | **Reign Above** | VRS Seeded |
-| 7 | 81 | 517 | **Wanted Goons** | VRS Seeded |
-| 8 | 87 | 489 | **NYX** | VRS Seeded |
+| 3 | TBD | 560 | **Chicken Coop (Take Flyte)** | VRS Seeded |
+| 4 | 74 | 559 | **F5 Esports** | VRS Seeded |
+| 5 | 76 | 547 | **Reign Above** | VRS Seeded |
+| 6 | 81 | 517 | **Wanted Goons** | VRS Seeded |
+| 7 | 87 | 489 | **NYX** | VRS Seeded |
 
 ---
 
@@ -21,34 +20,33 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 
 The following teams are seeded based on ESEA League Division and W/L record:
 
-| Seed | Team Name |
-|------|-----------|
-| 9 | Guangdong Tigers |
-| 10 | Reborn |
-| 11 | FRZ Unit |
-| 12 | Beyond Limits |
-| 13 | Over Your Head |
-| 14 | team mouse |
-| 15 | AURA |
-| 16 | Team Aether |
-| 17 | Holly Molly |
-| 18 | Omen Esports |
-| 19 | Phantom Sense |
-| 20 | Team WebOS |
-| 21 | Redacted Society |
-| 22 | Zealous |
-| 23 | NineFly Esports |
-| 24 | NXG |
-| 25 | Lurker Gaming |
-| 26 | Locally Hated |
-| 27 | Detonate |
-| 28 | Storm Surge |
-| 29 | Exnitas |
-| 30 | Chicken Coop |
-| 31 | Parallax |
-| 32 | Empire |
-
-**Note:** MERC is listed but not included in seeding at this time.
+| Seed | Team Name | League | Record |
+|------|-----------|--------|--------|
+| 8 | Omen Esports | ADV | 7-4 |
+| 9 | Empire | ADV | 7-3 |
+| 10 | Lurker Gaming | ADV | 6-4 |
+| 11 | Phoenix | ADV | 6-2 |
+| 12 | RedactedSociety | ADV | 5-5 |
+| 13 | Phantom Sense | ADV | 5-5 |
+| 14 | GuangdongTigers | ADV | 5-5 |
+| 15 | Beyond Limits | ADV | 4-5 |
+| 16 | MERC | ADV | 4-6 |
+| 17 | Holly Molly | ADV | 3-6 |
+| 18 | Aether | ADV | 0-5 |
+| 19 | FC Detonate | MAIN | 8-2 |
+| 20 | Zealous | MAIN | 7-3 |
+| 21 | Aura | MAIN | 7-3 |
+| 22 | FRZ Unit | MAIN | 7-3 |
+| 23 | Over Your Head | MAIN | 6-4 |
+| 24 | NXG Esports | MAIN | 6-4 |
+| 25 | NineFly Esports | MAIN | 5-5 |
+| 26 | Storm Surge | MAIN | 4-6 |
+| 27 | Exnitas | IM | 7-3 |
+| 28 | Reborn | OPEN | 10-0 |
+| 29 | Locally Hated | OPEN | 8-2 |
+| 30 | PARALLAX | OPEN | 8-2 |
+| 31 | team mouse | OPEN | 7-3 |
+| 32 | Team webOS | OPEN | Fresh Team |
 
 ---
 
@@ -63,9 +61,9 @@ The following teams are seeded based on ESEA League Division and W/L record:
 ### Non-VRS Teams
 
 - Remaining teams seeded based on:
-  - ESEA League Division
-  - Win/Loss (W/L) record
-- Teams without VRS rankings are seeded randomly for now
+  - ESEA League Division (ADV → MAIN → IM → OPEN)
+  - Win/Loss (W/L) record within each division
+- League priority: Advanced (ADV), Main (MAIN), Intermediate (IM), Open (OPEN)
 
 ---
 
@@ -75,7 +73,71 @@ The following teams are seeded based on ESEA League Division and W/L record:
 
 ### Group Assignments
 
-Groups will be announced before Round 1 begins.
+**Groups Announced:**
+
+#### **Group A**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Regain | VRS 736 pts / ADV | 7-2 | 1 |
+| Empire | ADV | 7-3 | 9 |
+| MERC | ADV | 4-6 | 16 |
+| team mouse | OPEN | 7-3 | 31 |
+
+#### **Group B**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Zomblers | VRS 682 pts / ADV | 9-1 | 2 |
+| Lurker Gaming | ADV | 6-4 | 10 |
+| Holly Molly | ADV | 3-6 | 17 |
+| Team webOS | OPEN | Fresh Team | 32 |
+
+#### **Group C**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 7-3 | 3 |
+| Phoenix | ADV | 6-2 | 11 |
+| Aether | ADV | 0-5 | 18 |
+| PARALLAX | OPEN | 8-2 | 30 |
+
+#### **Group D**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| F5 Esports | VRS 559 pts / ADV | 7-2 | 4 |
+| RedactedSociety | ADV | 5-5 | 12 |
+| Beyond Limits | ADV | 4-5 | 15 |
+| Locally Hated | OPEN | 8-2 | 29 |
+
+#### **Group E**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Reign Above | VRS 547 pts / ADV | 4-6 | 5 |
+| Phantom Sense | ADV | 5-5 | 13 |
+| Over Your Head | MAIN | 6-4 | 23 |
+| NineFly Esports | MAIN | 5-5 | 25 |
+
+#### **Group F**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Wanted Goons | VRS 517 pts / ADV | 6-4 | 6 |
+| GuangdongTigers | ADV | 5-5 | 14 |
+| NXG Esports | MAIN | 6-4 | 24 |
+| Storm Surge | MAIN | 4-6 | 26 |
+
+#### **Group G**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| NYX | VRS 489 pts / ADV | 2-8 | 7 |
+| Omen Esports | ADV | 7-4 | 8 |
+| Aura | MAIN | 7-3 | 21 |
+| Exnitas | IM | 7-3 | 27 |
+
+#### **Group H**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| FC Detonate | MAIN | 8-2 | 19 |
+| Zealous | MAIN | 7-3 | 20 |
+| FRZ Unit | MAIN | 7-3 | 22 |
+| Reborn | OPEN | 10-0 | 28 |
 
 **Seeding Method:**
 - Seeds 1-8 placed in separate groups (one per group)
@@ -118,35 +180,30 @@ This ensures balanced groups with mixed skill levels.
 - **VRS Standing:** 51st
 - **Seed:** 2nd in Crossfire Season 4
 
-### Aether (VRS Rank #59)
-- **Points:** 635
-- **VRS Standing:** 59th
+### Chicken Coop (Take Flyte) (VRS Rank TBD)
+- **Points:** 560
+- **VRS Standing:** TBD
 - **Seed:** 3rd in Crossfire Season 4
-
-### Outfit 49 (VRS Rank #64)
-- **Points:** 599
-- **VRS Standing:** 64th
-- **Seed:** 4th in Crossfire Season 4
 
 ### F5 Esports (VRS Rank #74)
 - **Points:** 559
 - **VRS Standing:** 74th
-- **Seed:** 5th in Crossfire Season 4
+- **Seed:** 4th in Crossfire Season 4
 
 ### Reign Above (VRS Rank #76)
 - **Points:** 547
 - **VRS Standing:** 76th
-- **Seed:** 6th in Crossfire Season 4
+- **Seed:** 5th in Crossfire Season 4
 
 ### Wanted Goons (VRS Rank #81)
 - **Points:** 517
 - **VRS Standing:** 81st
-- **Seed:** 7th in Crossfire Season 4
+- **Seed:** 6th in Crossfire Season 4
 
 ### NYX (VRS Rank #87)
 - **Points:** 489
 - **VRS Standing:** 87th
-- **Seed:** 8th in Crossfire Season 4
+- **Seed:** 7th in Crossfire Season 4
 
 ---
 
