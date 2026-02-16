@@ -1,7 +1,7 @@
 # Crossfire GG
 
 **Online Tier-2 CS2 Tournament** | March 2 - April 25, 2026  
-**Valve Regional Standings (VRS) Compliant**
+**Structured in alignment with Valve Regional Standings (VRS) integrity guidelines**
 
 > *Official announcement: [January 31, 2026](https://x.com/i/status/2017723806614183984)*
 
@@ -21,7 +21,7 @@
 
 ## Tournament Classification
 
-**CrossfireGG Season 4** is an **Online Tier-2 structured competition** recognized under the Valve Regional Standings (VRS) integrity framework. This is **not a casual or community cup** — it is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards.
+CrossfireGG is an online Tier-2 structured competition designed in alignment with VRS integrity guidelines. This is **not a casual or community cup** — it is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards.
 
 ### Key Information
 
@@ -36,21 +36,27 @@
 
 ---
 
-## VRS Compliance
+## Core Roster Policy
 
-CrossfireGG Season 4 follows **Valve Regional Standings (VRS) integrity standards** to ensure fair, competitive play and contribute to the global Counter-Strike ecosystem.
+Within CrossfireGG, the term "Roster" refers to the Core-3 player identity used for competitive integrity.
 
-### Core Roster Rule
+**All teams**, including VRS and non-VRS participants, must maintain a minimum core of three (3) players once roster lock is reached.
 
-- All teams must maintain a **minimum of 3 original core players** (the "Core 3" rule) in every match
-- Core players are designated during registration and cannot be substituted to meet the minimum requirement
-- Players added through roster changes **do not count** toward the Core 3 requirement
+### Roster Lock
 
-### Roster Lock Policy
+- Rosters lock fourteen (14) days before event start (February 16, 2026)
+- The core-3 represents the competitive identity of the team for seeding and eligibility purposes
 
-- **Roster lock occurs 14 days before event start** (February 16, 2026)
-- No roster changes permitted after lock date to ensure competitive integrity
-- All rosters are frozen for the Playoff Stage beginning March 30, 2026
+### VRS Teams
+
+- Must maintain at least three (3) players from the official VRS snapshot roster (February 2, 2026)
+- Changing one or two players before lock does NOT affect VRS eligibility
+- If a VRS team changes its core and drops below three snapshot players, the team loses VRS eligibility AND will be disqualified from the tournament to preserve competitive integrity
+
+### Non-VRS Teams
+
+- Must also maintain a core of three (3) registered players after roster lock
+- Breaking the core requirement may result in admin disqualification
 
 ### Duplicate Core Restrictions
 
@@ -58,11 +64,14 @@ CrossfireGG Season 4 follows **Valve Regional Standings (VRS) integrity standard
 - Teams found in violation will be disqualified
 - This rule ensures roster integrity across the competitive landscape
 
-### VRS Snapshot Reference
+---
 
-- **Snapshot Date:** February 2, 2026
-- All VRS-ranked teams confirmed eligible based on this snapshot
-- VRS seeding priority applied to participating teams
+## Seeding Integrity Policy
+
+- Seeding reflects the roster identity present at roster lock
+- Core-3 continuity ensures fair seeding stability
+- Seeding becomes final at roster lock date (February 16, 2026)
+- Teams disqualified due to core violations will not retain seeded positions
 
 ---
 
@@ -72,7 +81,7 @@ CrossfireGG Season 4 follows **Valve Regional Standings (VRS) integrity standard
 
 - **Format:** GSL-style Group Stage
 - **Structure:** 8 Groups × 4 Teams (32 teams total)
-- **Match Type:** Best-of-3 (BO3) Round-Robin
+- **Match Type:** All matches are Best-of-3 (BO3)
 - **Duration:** March 2 - March 22, 2026
 - **Advancement:** Top 2 teams from each group advance to Playoffs (16 teams total)
 
@@ -95,7 +104,7 @@ This ensures each group contains a mix of skill levels and prevents stacking.
 ### Playoff Stage
 
 - **Format:** 16-Team Single Elimination Bracket
-- **Match Type:** Best-of-3 (BO3)
+- **Match Type:** All matches are Best-of-3 (BO3)
 - **Duration:** March 30 - April 25, 2026
 
 **Playoff Rounds:**
@@ -152,15 +161,15 @@ Teams are invited and seeded based on their standing in the **February 2, 2026 V
 
 ---
 
-## Integrity & Administration
+## Match Integrity & Administration
 
-### Match Servers
+### Competitive Platform
 
 - **Platform:** All matches hosted on FACEIT
 - **Server Region:** North America (United States)
 - **Server Settings:** Official competitive CS2 settings (MR12/3)
 
-### Anti-Cheat Platform
+### Anti-Cheat Enforcement
 
 - **Required:** FACEIT Anti-Cheat (AC) is mandatory for all matches
 - Matches will not start if any player does not have AC enabled
@@ -173,9 +182,10 @@ Teams are invited and seeded based on their standing in the **February 2, 2026 V
 - Demos available for admin review and dispute resolution
 - Demo access provided through FACEIT platform
 
-### Rulebook Authority
+### Tournament Administration
 
 - **Primary Rulebook:** [Tournament Rules and Regulations](crossfire_rules_and_regulations.md)
+- Tournament administration retains final authority on disputes
 - Admin decisions are **final and confidential**
 - CrossfireGG reserves the right to adjudicate on any issue not explicitly addressed by the rules
 - All protests must be filed through official Discord ticket system within 1 day of match conclusion
