@@ -22,7 +22,7 @@ The following teams are seeded based on ESEA League Division and W/L record:
 | Seed | Team Name | League | Record |
 |------|-----------|--------|--------|
 | 7 | Omen Esports | ADV | 7-4 |
-| 8 | no1nx (Empire) | ADV | 7-3 |
+| 8 | Empire | ADV | 7-3 |
 | 9 | Lurker Gaming | ADV | 6-4 |
 | 10 | Phoenix | ADV | 6-2 |
 | 11 | RedactedSociety | ADV | 5-5 |
@@ -73,7 +73,71 @@ The following teams are seeded based on ESEA League Division and W/L record:
 
 ### Group Assignments
 
-Groups will be announced before Round 1 begins.
+**Groups Announced:**
+
+#### **Group A**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Regain | VRS 736 pts / ADV | 7-2 | 1 |
+| RedactedSociety | ADV | 5-5 | 11 |
+| NXG Esports | MAIN | 6-4 | 24 |
+| PARALLAX | OPEN | 8-2 | 30 |
+
+#### **Group B**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Zomblers | VRS 682 pts / ADV | 9-1 | 2 |
+| Phantom Sense | ADV | 5-5 | 12 |
+| Over Your Head | MAIN | 6-4 | 23 |
+| Reborn | OPEN | 10-0 | 28 |
+
+#### **Group C**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 7-3 | 3 |
+| GuangdongTigers | ADV | 5-5 | 13 |
+| Aura | MAIN | 7-3 | 21 |
+| team mouse | OPEN | 7-3 | 31 |
+
+#### **Group D**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| F5 Esports | VRS 559 pts / ADV | 7-2 | 4 |
+| Phoenix | ADV | 6-2 | 10 |
+| FC Detonate | MAIN | 8-2 | 19 |
+| Locally Hated | OPEN | 8-2 | 29 |
+
+#### **Group E**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Reign Above | VRS 547 pts / ADV | 4-6 | 5 |
+| Empire | ADV | 7-3 | 8 |
+| Zealous | MAIN | 7-3 | 20 |
+| NineFly Esports | MAIN | 5-5 | 25 |
+
+#### **Group F**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Wanted Goons | VRS 517 pts / ADV | 6-4 | 6 |
+| Lurker Gaming | ADV | 6-4 | 9 |
+| FRZ Unit | MAIN | 7-3 | 22 |
+| Storm Surge | MAIN | 4-6 | 26 |
+
+#### **Group G**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Omen Esports | ADV | 7-4 | 7 |
+| Beyond Limits | ADV | 4-5 | 14 |
+| Exnitas | IM | 7-3 | 27 |
+| NYX | ADV | 2-8 | 17 |
+
+#### **Group H**
+| Team | League/Points | Record | Seed |
+|------|---------------|--------|------|
+| Holly Molly | ADV | 3-6 | 16 |
+| Aether | ADV | 0-5 | 18 |
+| Team webOS | OPEN | Fresh Team | 32 |
+| MERC | ADV | 4-6 | 15 |
 
 **Seeding Method:**
 - Seeds 1-8 placed in separate groups (one per group)
