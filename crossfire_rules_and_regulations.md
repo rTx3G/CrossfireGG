@@ -572,9 +572,10 @@ A: Non-VRS teams welcome. Seeded by ESEA League Division and W/L record.
 ---
 
 **Official Links:**  
-Discord: https://discord.gg/crossfire  
+Discord: https://discord.gg/PczPADKPvf  
 Twitter: https://x.com/PlayCrossFireGG  
 Twitch: https://www.twitch.tv/PlayCrossFire  
+Twitch (Secondary): https://www.twitch.tv/playcrossfirecs2  
 YouTube: https://www.youtube.com/@CrossfireGG  
 FACEIT: https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG
 
@@ -582,4 +583,4 @@ FACEIT: https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd
 
 © Crossfire Network LLC 2025 All Rights Reserved
 
-*Last Updated: February 14, 2026*
+*Last Updated: February 15, 2026*
