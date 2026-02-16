@@ -8,7 +8,7 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 |------|----------|--------|-----------|--------|
 | 1 | 43 | 736 | **Regain** | VRS Seeded |
 | 2 | 51 | 682 | **Zomblers** | VRS Seeded |
-| 3 | TBD | 560 | **Chicken Coop (Take Flyte)** | VRS Seeded |
+| 3 | 72 | 560 | **Chicken Coop (Take Flyte)** | VRS Seeded |
 | 4 | 74 | 559 | **F5 Esports** | VRS Seeded |
 | 5 | 76 | 547 | **Reign Above** | VRS Seeded |
 | 6 | 81 | 517 | **Wanted Goons** | VRS Seeded |
@@ -18,35 +18,35 @@ Teams ranked according to the **February 2nd, 2026 VRS Leaderboard**:
 
 ## Non-VRS Seeded Teams
 
-The following teams are seeded based on ESEA League Division and W/L record:
+The following teams were seeded on **February 15th, 2026**:
 
-| Seed | Team Name | League | Record |
-|------|-----------|--------|--------|
-| 8 | Omen Esports | ADV | 7-4 |
-| 9 | Empire | ADV | 7-3 |
-| 10 | Lurker Gaming | ADV | 6-4 |
-| 11 | Phoenix | ADV | 6-2 |
-| 12 | RedactedSociety | ADV | 5-5 |
-| 13 | Phantom Sense | ADV | 5-5 |
-| 14 | GuangdongTigers | ADV | 5-5 |
-| 15 | Beyond Limits | ADV | 4-5 |
-| 16 | MERC | ADV | 4-6 |
-| 17 | Holly Molly | ADV | 3-6 |
-| 18 | Aether | ADV | 0-5 |
-| 19 | FC Detonate | MAIN | 8-2 |
-| 20 | Zealous | MAIN | 7-3 |
-| 21 | Aura | MAIN | 7-3 |
-| 22 | FRZ Unit | MAIN | 7-3 |
-| 23 | Over Your Head | MAIN | 6-4 |
-| 24 | NXG Esports | MAIN | 6-4 |
-| 25 | NineFly Esports | MAIN | 5-5 |
-| 26 | Storm Surge | MAIN | 4-6 |
-| 27 | Exnitas | IM | 7-3 |
-| 28 | Reborn | OPEN | 10-0 |
-| 29 | Locally Hated | OPEN | 8-2 |
-| 30 | PARALLAX | OPEN | 8-2 |
-| 31 | team mouse | OPEN | 7-3 |
-| 32 | Team webOS | OPEN | Fresh Team |
+| Seed | Team Name |
+|------|-----------|
+| 8 | Omen Esports |
+| 9 | Empire |
+| 10 | Lurker Gaming |
+| 11 | Phoenix |
+| 12 | RedactedSociety |
+| 13 | Phantom Sense |
+| 14 | GuangdongTigers |
+| 15 | Beyond Limits |
+| 16 | MERC |
+| 17 | Holly Molly |
+| 18 | Aether |
+| 19 | FC Detonate |
+| 20 | Zealous |
+| 21 | Aura |
+| 22 | FRZ Unit |
+| 23 | Over Your Head |
+| 24 | NXG Esports |
+| 25 | NineFly Esports |
+| 26 | Storm Surge |
+| 27 | Exnitas |
+| 28 | Reborn |
+| 29 | Locally Hated |
+| 30 | PARALLAX |
+| 31 | team mouse |
+| 32 | Team webOS |
 
 ---
 
@@ -60,10 +60,12 @@ The following teams are seeded based on ESEA League Division and W/L record:
 
 ### Non-VRS Teams
 
-- Remaining teams seeded based on:
-  - ESEA League Division (ADV → MAIN → IM → OPEN)
-  - Win/Loss (W/L) record within each division
-- League priority: Advanced (ADV), Main (MAIN), Intermediate (IM), Open (OPEN)
+- Non-VRS team seeding was completed on **February 15th, 2026**
+- Remaining teams were seeded based on ESEA League Division and Win/Loss record
+
+### Tournament Lock Notice
+
+**As of February 16th, 2026**, the tournament is **two weeks out** from the start date. In accordance with **VRS regulations**, no further seeding or team changes will be made to ensure **fair play** for all participants.
 
 ---
 
@@ -180,9 +182,9 @@ This ensures balanced groups with mixed skill levels.
 - **VRS Standing:** 51st
 - **Seed:** 2nd in Crossfire Season 4
 
-### Chicken Coop (Take Flyte) (VRS Rank TBD)
+### Chicken Coop (Take Flyte) (VRS Rank #72)
 - **Points:** 560
-- **VRS Standing:** TBD
+- **VRS Standing:** 72nd
 - **Seed:** 3rd in Crossfire Season 4
 
 ### F5 Esports (VRS Rank #74)
@@ -234,11 +236,13 @@ For the latest team roster updates, changes, or withdrawals:
 ## Official Links
 
 - **FACEIT Hub:** [CrossfireGG](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
-- **Discord:** [Join Discord](https://discord.gg/crossfire)
+- **Discord:** [Join Discord](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
+- **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
+- **Twitch (Secondary):** [playcrossfirecs2](https://www.twitch.tv/playcrossfirecs2)
 
 ---
 
 © Crossfire Network LLC 2025 All Rights Reserved
 
-*Last Updated: February 14, 2026*
+*Last Updated: February 16, 2026*

@@ -7,9 +7,10 @@
 ## Quick Links
 
 - **Registration:** [Register Your Team](https://docs.google.com/forms/u/0/d/e/1FAIpQLScrekuW-M7L2XLwjS2GiV07hDM2gskdh-T3ap2gkT2uNrlTJg/viewform?usp=send_form&pli=1&authuser=0)
-- **Discord:** [discord.gg/crossfire](https://discord.gg/crossfire)
+- **Discord:** [discord.gg/PczPADKPvf](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
 - **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
+- **Twitch (Secondary):** [playcrossfirecs2](https://www.twitch.tv/playcrossfirecs2)
 - **YouTube:** [@CrossfireGG](https://www.youtube.com/@CrossfireGG)
 - **FACEIT Hub:** [CrossfireGG](https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd9/CrossfireGG)
 
