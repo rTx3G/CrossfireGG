@@ -82,7 +82,7 @@ The following teams were seeded on **February 15th, 2026**:
 |------|---------------|------|
 | Regain | VRS 736 pts / ADV | 1 |
 | Beyond Limits | ADV | 16 |
-| MERC | ADV | 17 |
+| Over Your Head | MAIN | 24 |
 | Team webOS | OPEN | 32 |
 
 #### **Group B**
@@ -90,7 +90,7 @@ The following teams were seeded on **February 15th, 2026**:
 |------|---------------|------|
 | Outfit 49 (Phoenix) | VRS 691 pts / ADV | 2 |
 | RedactedSociety | ADV | 15 |
-| Holly Molly | ADV | 18 |
+| NXG Esports | MAIN | 23 |
 | team mouse | OPEN | 31 |
 
 #### **Group C**
@@ -98,23 +98,23 @@ The following teams were seeded on **February 15th, 2026**:
 |------|---------------|------|
 | Zomblers | VRS 682 pts / ADV | 3 |
 | Phantom Sense | ADV | 14 |
-| FC Detonate | MAIN | 19 |
+| Zealous | MAIN | 22 |
 | PARALLAX | OPEN | 30 |
 
 #### **Group D**
 | Team | League/Points | Seed |
 |------|---------------|------|
 | Aether (Outfit 49) | VRS 599 pts / ADV | 4 |
-| GuangdongTigers | ADV | 13 |
-| Aura | MAIN | 20 |
+| Lurker Gaming | ADV | 12 |
+| FRZ Unit | MAIN | 21 |
 | Locally Hated | OPEN | 29 |
 
 #### **Group E**
 | Team | League/Points | Seed |
 |------|---------------|------|
 | Chicken Coop (Take Flyte) | VRS 560 pts / ADV | 5 |
-| Lurker Gaming | ADV | 12 |
-| FRZ Unit | MAIN | 21 |
+| GuangdongTigers | ADV | 13 |
+| Aura | MAIN | 20 |
 | Reborn | OPEN | 28 |
 
 #### **Group F**
@@ -122,7 +122,7 @@ The following teams were seeded on **February 15th, 2026**:
 |------|---------------|------|
 | F5 Esports | VRS 559 pts / ADV | 6 |
 | Omen Esports | ADV | 11 |
-| Zealous | MAIN | 22 |
+| FC Detonate | MAIN | 19 |
 | Exnitas | IM | 27 |
 
 #### **Group G**
@@ -130,7 +130,7 @@ The following teams were seeded on **February 15th, 2026**:
 |------|---------------|------|
 | Reign Above | VRS 547 pts / ADV | 7 |
 | Empire | ADV | 10 |
-| NXG Esports | MAIN | 23 |
+| Holly Molly | ADV | 18 |
 | Storm Surge | MAIN | 26 |
 
 #### **Group H**
@@ -138,7 +138,7 @@ The following teams were seeded on **February 15th, 2026**:
 |------|---------------|------|
 | Wanted Goons | VRS 517 pts / ADV | 8 |
 | NYX | VRS 489 pts / ADV | 9 |
-| Over Your Head | MAIN | 24 |
+| MERC | ADV | 17 |
 | NineFly Esports | MAIN | 25 |
 
 **Seeding Method:**
@@ -255,4 +255,4 @@ For the latest team roster updates, changes, or withdrawals:
 
 © Crossfire Network LLC 2025 All Rights Reserved
 
-*Last Updated: February 15, 2026*
+*Last Updated: February 17, 2026*
