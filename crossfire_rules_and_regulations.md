@@ -583,4 +583,4 @@ FACEIT: https://www.faceit.com/en/organizers/1b5c9ed3-5233-4c58-8761-78f6ef5a0fd
 
 © Crossfire Network LLC 2025 All Rights Reserved
 
-*Last Updated: February 15, 2026*
+*Last Updated: February 16, 2026*
